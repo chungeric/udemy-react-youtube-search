@@ -18,7 +18,7 @@ class App extends Component {
       selectedVideo: null
     };
 
-    this.videoSearch('React JS');
+    this.videoSearch('Youtube Rewind');
   }
 
   videoSearch(term) {
